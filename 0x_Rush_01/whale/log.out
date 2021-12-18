@@ -1,0 +1,3848 @@
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 2 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 2 3 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 2 3 4 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 2 4 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 2 4 3 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 3 4 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 3 2 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 3 2 4 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 3 4 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 3 4 2 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 4 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  ok
+check_row_right = 0  ok
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+2 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+2 1 0 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+2 1 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+2 1 3 4 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+2 1 4 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+2 3 4 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+2 3 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+2 3 1 4 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+2 3 4 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+2 3 4 1 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+3 3 4 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+3 1 4 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+3 1 4 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+3 1 4 2 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+3 2 4 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+3 2 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+3 2 1 4 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+3 2 4 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+3 2 4 1 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+4 2 4 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+4 1 4 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+4 1 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+4 1 3 2 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  ok
+check_row_right = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+4 2 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+4 2 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+4 2 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+4 2 3 1 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  ok
+check_row_right = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+4 3 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+4 3 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 2 3 
+4 3 1 2 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  ok
+check_row_right = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 3 3 
+4 3 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+1 4 3 2 
+4 3 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  ok
+check_row_right = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 3 0 
+4 3 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 3 0 
+4 3 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 3 0 
+4 3 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 3 4 
+4 3 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 0 
+4 3 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+4 3 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  ok
+check_row_right = 0  ok
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+1 3 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+1 2 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+1 2 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+1 2 3 4 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+1 3 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+1 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+1 3 2 4 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+1 4 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+1 4 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+1 4 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+1 4 3 2 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+3 4 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+3 2 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+3 2 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+3 2 1 4 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+3 4 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+3 4 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+3 4 1 2 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+3 4 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+3 4 2 1 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+4 4 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+4 2 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+4 2 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+4 2 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+4 2 3 1 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  ok
+check_row_right = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+4 3 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+4 3 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+4 3 1 2 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  ok
+check_row_right = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+4 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 1 4 3 
+4 3 2 1 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  ok
+check_row_right = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 3 4 3 
+4 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 3 1 3 
+4 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 3 1 4 
+4 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 3 4 0 
+4 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 3 4 1 
+4 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 4 0 
+4 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 0 
+4 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+4 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  ok
+check_row_right = 0  ok
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+1 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+1 2 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+1 2 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+1 2 3 4 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+1 2 4 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+1 3 4 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+1 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+1 3 2 4 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+1 3 4 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+1 3 4 2 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+3 3 4 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+3 1 4 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+3 1 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+3 1 2 4 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+3 1 4 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+3 1 4 2 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+3 2 4 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+3 2 4 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+3 2 4 1 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+4 2 4 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+4 1 4 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+4 1 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+4 1 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+4 1 3 2 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  ok
+check_row_right = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+4 2 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+4 2 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+4 2 3 1 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  ok
+check_row_right = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+4 3 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+4 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 1 3 
+4 3 2 1 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  ok
+check_row_right = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 3 3 
+4 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+2 4 3 1 
+4 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  ok
+check_row_right = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 4 3 0 
+4 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 3 0 
+4 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 2 0 
+4 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 2 4 
+4 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  ok
+check_row_right = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 0 
+4 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+4 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  ok
+check_row_right = 0  ok
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+1 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+1 2 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+1 2 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+1 2 3 4 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+1 3 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+1 3 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+1 3 2 4 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+1 4 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+1 4 2 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+1 4 2 3 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+1 4 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+2 4 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+2 3 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+2 3 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+2 3 1 4 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+2 4 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+2 4 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+2 4 1 3 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+2 4 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+2 4 3 1 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 1  nao pode
+Atribui 0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+4 4 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+4 2 3 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+4 2 1 0 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+4 2 1 3 
+0 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  ok
+check_row_right = 0  ok
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+4 2 1 3 
+1 0 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+4 2 1 3 
+1 3 0 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+4 2 1 3 
+1 3 2 0 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na linha)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+0 0 0 0 
+Testa as regras de fora
+check_row_left = 0  ok
+check_row_right = 0  ok
+check_col_down = 0  nao da pra testar
+check_col_up = 0  nao da pra testar
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 0 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  ok
+check_col_down = 0  nao da pra testar
+check_col_up = 0  ok
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 4 0 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  ok
+check_col_down = 0  nao da pra testar
+check_col_up = 0  ok
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 1  nao pode (existe na coluna)
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 4 3 0 
+Testa as regras de fora
+check_row_left = 0  nao da pra testar
+check_row_right = 0  nao da pra testar
+check_col_down = 0  ok
+check_col_down = 0  nao da pra testar
+check_col_up = 0  ok
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Size=0
+
+size+1 Testa se ja existe
+check_double = 0  ok
+
+Atribui novo valor
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 4 3 1 
+Testa as regras de fora
+check_row_left = 0  ok
+check_row_right = 0  ok
+check_col_down = 0  ok
+check_col_down = 0  nao da pra testar
+check_col_up = 0  ok
+check_case ok
+
+Testa proxima posicao pos+1
+Entra no solve
+
+Solve retorna 1 (ok) no inicio
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 4 3 1 
+
+
+Solve retorna 1 (ok) na recursao
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 4 3 1 
+
+
+Solve retorna 1 (ok) na recursao
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 4 3 1 
+
+
+Solve retorna 1 (ok) na recursao
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 4 3 1 
+
+
+Solve retorna 1 (ok) na recursao
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 4 3 1 
+
+
+Solve retorna 1 (ok) na recursao
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 4 3 1 
+
+
+Solve retorna 1 (ok) na recursao
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 4 3 1 
+
+
+Solve retorna 1 (ok) na recursao
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 4 3 1 
+
+
+Solve retorna 1 (ok) na recursao
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 4 3 1 
+
+
+Solve retorna 1 (ok) na recursao
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 4 3 1 
+
+
+Solve retorna 1 (ok) na recursao
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 4 3 1 
+
+
+Solve retorna 1 (ok) na recursao
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 4 3 1 
+
+
+Solve retorna 1 (ok) na recursao
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 4 3 1 
+
+
+Solve retorna 1 (ok) na recursao
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 4 3 1 
+
+
+Solve retorna 1 (ok) na recursao
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 4 3 1 
+
+
+Solve retorna 1 (ok) na recursao
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 4 3 1 
+
+
+Solve retorna 1 (ok) na recursao
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 4 3 1 
+
+3 1 4 2 
+4 2 1 3 
+1 3 2 4 
+2 4 3 1 

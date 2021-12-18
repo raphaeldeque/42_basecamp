@@ -1,0 +1,525 @@
+
+primeiro while p < n
+0
+primeiro while p < n
+1
+primeiro while p < n
+2
+primeiro while p < n
+3
+primeiro while p < n
+4
+primeiro while p < n
+5
+primeiro while p < n
+6
+primeiro while p < n
+7
+primeiro while p < n
+8
+segundo while p > 0
+0
+terceiro while p < n
+0
+terceiro while p < n
+1
+terceiro while p < n
+2
+terceiro while p < n
+3
+terceiro while p < n
+4
+terceiro while p < n
+5
+terceiro while p < n
+6
+terceiro while p < n
+7
+terceiro while p < n
+8
+quarto while p--
+8
+atribuindo p++ = ++dig
+p = 8
+digit = 8
+p = 0
+ultimo while p < n
+, 
+segundo while p > 0
+0
+terceiro while p < n
+0
+terceiro while p < n
+1
+terceiro while p < n
+2
+terceiro while p < n
+3
+terceiro while p < n
+4
+terceiro while p < n
+5
+terceiro while p < n
+6
+terceiro while p < n
+7
+terceiro while p < n
+9
+quarto while p--
+9
+quarto while p--
+7
+atribuindo p++ = ++dig
+p = 7
+digit = 7
+p = 9
+atribuindo p++ = ++dig
+p = 8
+digit = 8
+p = 0
+ultimo while p < n
+, 
+segundo while p > 0
+0
+terceiro while p < n
+0
+terceiro while p < n
+1
+terceiro while p < n
+2
+terceiro while p < n
+3
+terceiro while p < n
+4
+terceiro while p < n
+5
+terceiro while p < n
+6
+terceiro while p < n
+8
+terceiro while p < n
+9
+quarto while p--
+9
+quarto while p--
+8
+quarto while p--
+6
+atribuindo p++ = ++dig
+p = 6
+digit = 6
+p = 8
+atribuindo p++ = ++dig
+p = 7
+digit = 7
+p = 9
+atribuindo p++ = ++dig
+p = 8
+digit = 8
+p = 0
+ultimo while p < n
+, 
+segundo while p > 0
+0
+terceiro while p < n
+0
+terceiro while p < n
+1
+terceiro while p < n
+2
+terceiro while p < n
+3
+terceiro while p < n
+4
+terceiro while p < n
+5
+terceiro while p < n
+7
+terceiro while p < n
+8
+terceiro while p < n
+9
+quarto while p--
+9
+quarto while p--
+8
+quarto while p--
+7
+quarto while p--
+5
+atribuindo p++ = ++dig
+p = 5
+digit = 5
+p = 7
+atribuindo p++ = ++dig
+p = 6
+digit = 6
+p = 8
+atribuindo p++ = ++dig
+p = 7
+digit = 7
+p = 9
+atribuindo p++ = ++dig
+p = 8
+digit = 8
+p = 0
+ultimo while p < n
+, 
+segundo while p > 0
+0
+terceiro while p < n
+0
+terceiro while p < n
+1
+terceiro while p < n
+2
+terceiro while p < n
+3
+terceiro while p < n
+4
+terceiro while p < n
+6
+terceiro while p < n
+7
+terceiro while p < n
+8
+terceiro while p < n
+9
+quarto while p--
+9
+quarto while p--
+8
+quarto while p--
+7
+quarto while p--
+6
+quarto while p--
+4
+atribuindo p++ = ++dig
+p = 4
+digit = 4
+p = 6
+atribuindo p++ = ++dig
+p = 5
+digit = 5
+p = 7
+atribuindo p++ = ++dig
+p = 6
+digit = 6
+p = 8
+atribuindo p++ = ++dig
+p = 7
+digit = 7
+p = 9
+atribuindo p++ = ++dig
+p = 8
+digit = 8
+p = 0
+ultimo while p < n
+, 
+segundo while p > 0
+0
+terceiro while p < n
+0
+terceiro while p < n
+1
+terceiro while p < n
+2
+terceiro while p < n
+3
+terceiro while p < n
+5
+terceiro while p < n
+6
+terceiro while p < n
+7
+terceiro while p < n
+8
+terceiro while p < n
+9
+quarto while p--
+9
+quarto while p--
+8
+quarto while p--
+7
+quarto while p--
+6
+quarto while p--
+5
+quarto while p--
+3
+atribuindo p++ = ++dig
+p = 3
+digit = 3
+p = 5
+atribuindo p++ = ++dig
+p = 4
+digit = 4
+p = 6
+atribuindo p++ = ++dig
+p = 5
+digit = 5
+p = 7
+atribuindo p++ = ++dig
+p = 6
+digit = 6
+p = 8
+atribuindo p++ = ++dig
+p = 7
+digit = 7
+p = 9
+atribuindo p++ = ++dig
+p = 8
+digit = 8
+p = 0
+ultimo while p < n
+, 
+segundo while p > 0
+0
+terceiro while p < n
+0
+terceiro while p < n
+1
+terceiro while p < n
+2
+terceiro while p < n
+4
+terceiro while p < n
+5
+terceiro while p < n
+6
+terceiro while p < n
+7
+terceiro while p < n
+8
+terceiro while p < n
+9
+quarto while p--
+9
+quarto while p--
+8
+quarto while p--
+7
+quarto while p--
+6
+quarto while p--
+5
+quarto while p--
+4
+quarto while p--
+2
+atribuindo p++ = ++dig
+p = 2
+digit = 2
+p = 4
+atribuindo p++ = ++dig
+p = 3
+digit = 3
+p = 5
+atribuindo p++ = ++dig
+p = 4
+digit = 4
+p = 6
+atribuindo p++ = ++dig
+p = 5
+digit = 5
+p = 7
+atribuindo p++ = ++dig
+p = 6
+digit = 6
+p = 8
+atribuindo p++ = ++dig
+p = 7
+digit = 7
+p = 9
+atribuindo p++ = ++dig
+p = 8
+digit = 8
+p = 0
+ultimo while p < n
+, 
+segundo while p > 0
+0
+terceiro while p < n
+0
+terceiro while p < n
+1
+terceiro while p < n
+3
+terceiro while p < n
+4
+terceiro while p < n
+5
+terceiro while p < n
+6
+terceiro while p < n
+7
+terceiro while p < n
+8
+terceiro while p < n
+9
+quarto while p--
+9
+quarto while p--
+8
+quarto while p--
+7
+quarto while p--
+6
+quarto while p--
+5
+quarto while p--
+4
+quarto while p--
+3
+quarto while p--
+1
+atribuindo p++ = ++dig
+p = 1
+digit = 1
+p = 3
+atribuindo p++ = ++dig
+p = 2
+digit = 2
+p = 4
+atribuindo p++ = ++dig
+p = 3
+digit = 3
+p = 5
+atribuindo p++ = ++dig
+p = 4
+digit = 4
+p = 6
+atribuindo p++ = ++dig
+p = 5
+digit = 5
+p = 7
+atribuindo p++ = ++dig
+p = 6
+digit = 6
+p = 8
+atribuindo p++ = ++dig
+p = 7
+digit = 7
+p = 9
+atribuindo p++ = ++dig
+p = 8
+digit = 8
+p = 0
+ultimo while p < n
+, 
+segundo while p > 0
+0
+terceiro while p < n
+0
+terceiro while p < n
+2
+terceiro while p < n
+3
+terceiro while p < n
+4
+terceiro while p < n
+5
+terceiro while p < n
+6
+terceiro while p < n
+7
+terceiro while p < n
+8
+terceiro while p < n
+9
+quarto while p--
+9
+quarto while p--
+8
+quarto while p--
+7
+quarto while p--
+6
+quarto while p--
+5
+quarto while p--
+4
+quarto while p--
+3
+quarto while p--
+2
+quarto while p--
+0
+atribuindo p++ = ++dig
+p = 0
+digit = 0
+p = 2
+atribuindo p++ = ++dig
+p = 1
+digit = 1
+p = 3
+atribuindo p++ = ++dig
+p = 2
+digit = 2
+p = 4
+atribuindo p++ = ++dig
+p = 3
+digit = 3
+p = 5
+atribuindo p++ = ++dig
+p = 4
+digit = 4
+p = 6
+atribuindo p++ = ++dig
+p = 5
+digit = 5
+p = 7
+atribuindo p++ = ++dig
+p = 6
+digit = 6
+p = 8
+atribuindo p++ = ++dig
+p = 7
+digit = 7
+p = 9
+atribuindo p++ = ++dig
+p = 8
+digit = 8
+p = 0
+ultimo while p < n
+, 
+segundo while p > 0
+0
+terceiro while p < n
+1
+terceiro while p < n
+2
+terceiro while p < n
+3
+terceiro while p < n
+4
+terceiro while p < n
+5
+terceiro while p < n
+6
+terceiro while p < n
+7
+terceiro while p < n
+8
+terceiro while p < n
+9
+quarto while p--
+9
+quarto while p--
+8
+quarto while p--
+7
+quarto while p--
+6
+quarto while p--
+5
+quarto while p--
+4
+quarto while p--
+3
+quarto while p--
+2
+quarto while p--
+1
